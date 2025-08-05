@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 
 ## 📈 GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardochiaradia&show_icons=true&theme=default)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchiaradia&show_icons=true&theme=default)
 
 ---
 
