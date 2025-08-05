@@ -17,10 +17,6 @@ Here are some of the technologies I work with:
 
 - [LinkedIn](https://www.linkedin.com/in/eduardochiaradia/)
 
-## 📈 GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchiaradia&show_icons=true&theme=default)
-
----
 
 Thanks for visiting! 🚀
